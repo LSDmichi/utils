@@ -1,0 +1,10 @@
+# gitAliases
+
+alias gss='git status'
+alias gb='git branch'
+alias gcob='git checkout -b'
+alias glo='git log --oneline'
+alias gdev='git checkout develop'
+alias gcm='git commit -m'
+alias gau='git add -u'
+alias gl='git log'
